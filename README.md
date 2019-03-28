@@ -27,4 +27,7 @@ Altre risorse:
 
 ## Zimbra
   - Zimbra-python: https://github.com/Zimbra-Community/python-zimbra
-  
+  - https://www.slideshare.net/ImamOmarMochtar/zimbra-scripting-with-python
+  - zmprov
+  - zmpython
+  - https://github.com/ilgarm/pyzimbra
