@@ -1,4 +1,4 @@
-# Appunti su Italia Digitale
+# Appunti su Italia Digitale e Altro
 
 Link utili:
   - Developers Italia Github: https://github.com/italia/
@@ -22,5 +22,9 @@ Altre risorse:
   - https://github.com/italia/spid-django
   - Ambiente di test IdP: https://github.com/italia/spid-testenv2
   
- 
+## Active Directory
+  - PyAD: https://zakird.com/pyad/index.html
+
+## Zimbra
+  - Zimbra-python: https://github.com/Zimbra-Community/python-zimbra
   
