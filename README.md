@@ -15,7 +15,7 @@ Altre risorse:
 ## IO App
   - https://github.com/teamdigitale/io-app
 
-## SPIP
+## SPID
   - https://www.spid.gov.it/come-diventare-fornitore-di-servizi-pubblici-e-privati-con-spid
   - [SPID Docs Developer Italia](https://developers.italia.it/it/spid)
   - https://github.com/italia/spid-docs
@@ -26,6 +26,7 @@ Altre risorse:
   - PyAD: https://zakird.com/pyad/index.html
 
 ## Zimbra
+  - https://files.zimbra.com/docs/soap_api/8.6.0/api-reference/index.html
   - Zimbra-python: https://github.com/Zimbra-Community/python-zimbra
   - https://www.slideshare.net/ImamOmarMochtar/zimbra-scripting-with-python
   - zmprov
