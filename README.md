@@ -1,4 +1,4 @@
-# Appunti su Italia Digitale e Altro
+# Risorse
 
 Link utili:
   - Developers Italia Github: https://github.com/italia/
@@ -24,6 +24,7 @@ Altre risorse:
   
 ## Active Directory
   - PyAD: https://zakird.com/pyad/index.html
+  - https://partofthething.com/thoughts/authenticating-and-populating-users-in-django-using-a-windows-active-directory-and-sasl/
 
 ## Zimbra
   - https://files.zimbra.com/docs/soap_api/8.6.0/api-reference/index.html
