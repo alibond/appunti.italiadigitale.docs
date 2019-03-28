@@ -14,3 +14,7 @@ Altre risorse:
   
 ## IO App
   - https://github.com/teamdigitale/io-app
+
+## SPIP
+  - https://www.spid.gov.it/come-diventare-fornitore-di-servizi-pubblici-e-privati-con-spid
+  
