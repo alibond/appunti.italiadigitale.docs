@@ -20,6 +20,7 @@ Altre risorse:
   - [SPID Docs Developer Italia](https://developers.italia.it/it/spid)
   - https://github.com/italia/spid-docs
   - https://github.com/italia/spid-django
+  - Ambiente di test IdP: https://github.com/italia/spid-testenv2
   
  
   
