@@ -17,6 +17,7 @@ Altre risorse:
 
 ## SPIP
   - https://www.spid.gov.it/come-diventare-fornitore-di-servizi-pubblici-e-privati-con-spid
+  - [SPID Docs Developer Italia](https://developers.italia.it/it/spid)
   - https://github.com/italia/spid-docs
   - https://github.com/italia/spid-django
   
