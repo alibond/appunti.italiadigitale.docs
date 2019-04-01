@@ -22,14 +22,3 @@ Altre risorse:
   - https://github.com/italia/spid-django
   - Ambiente di test IdP: https://github.com/italia/spid-testenv2
   
-## Active Directory
-  - PyAD: https://zakird.com/pyad/index.html
-  - https://partofthething.com/thoughts/authenticating-and-populating-users-in-django-using-a-windows-active-directory-and-sasl/
-
-## Zimbra
-  - https://files.zimbra.com/docs/soap_api/8.6.0/api-reference/index.html
-  - Zimbra-python: https://github.com/Zimbra-Community/python-zimbra
-  - https://www.slideshare.net/ImamOmarMochtar/zimbra-scripting-with-python
-  - zmprov
-  - zmpython
-  - https://github.com/ilgarm/pyzimbra
